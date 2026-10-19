@@ -1,0 +1,14 @@
+BIBLE — Église Porte des Brebis (application hors ligne, iPhone + Android)
+
+1) Mettre TOUS les fichiers de ce dossier sur un site en HTTPS
+   (GitHub Pages, Netlify, ou portedesbrebis.com). Garder les fichiers ensemble, à la racine du même dossier.
+2) Ouvrir le lien UNE fois avec Internet (patienter ~1 minute : tout se télécharge dans le téléphone).
+3) Installer :
+   - iPhone : Safari > Partager > « Sur l'écran d'accueil ».
+   - Android : Chrome > menu ⋮ > « Installer l'application » (ou bouton « Installer l'application » dans le menu de l'app).
+4) Ensuite l'app s'ouvre sans Internet, avec l'icône du logo de l'église.
+
+Mise à jour : après avoir modifié un fichier, changer VERSION dans sw.js (v1 -> v2).
+Voix : la lecture vocale utilise la voix française du téléphone (à installer dans les réglages du téléphone pour fonctionner hors ligne).
+
+Retour : bouton ← à l'écran, bouton Retour d'Android, balayage depuis le bord gauche (iPhone). Version actuelle : v2.
